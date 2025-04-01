@@ -1,0 +1,5 @@
+Hi this is the demo file for learning git on my laptop
+i just want to learn how to initialise git 
+I want to learn how git works in real time
+I want to know how to create local repo and how to push to remote repo
+I have to learn how can i host in remote repo like Github
